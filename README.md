@@ -1,5 +1,8 @@
 # Quick Language Switcher
 
+**Blender 5.0+ Add-on / Extension for fast UI language switching and bilingual locale pack generation**<br>
+**Blender 5.0+ 界面语言快速切换与双语 locale 语言包生成插件**
+
 [中文说明](#中文说明) | [English](#english)
 
 ## 中文说明
