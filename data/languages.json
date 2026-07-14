@@ -1,0 +1,16 @@
+{
+  "favorites": [
+    {
+      "code": "en_US",
+      "name": "English"
+    },
+    {
+      "code": "zh_HANS",
+      "name": "简体中文"
+    },
+    {
+      "code": "ja_JP",
+      "name": "日本語"
+    }
+  ]
+}

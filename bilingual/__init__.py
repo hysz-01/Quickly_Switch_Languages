@@ -1,0 +1,1 @@
+# Make `bilingual` importable as a package in Blender 4.x

@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "quickly_switch_languages"
+version = "1.0.0"
+name = "Quick Language Switcher"
+tagline = "Quickly switch Blender UI language and install bilingual packs"
+maintainer = "Hysz <939885979@qq.com>"
+type = "add-on"
+tags = ["User Interface", "System"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+permissions = ["files"]
